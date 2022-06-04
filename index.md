@@ -34,7 +34,8 @@ Advertising
 ### NetCracker
 
 `Jul 2009 - Sep 2013`
-Telecom integrations
+Worked on integrations with different network management systems, parsing raw data from them
+and providing clean data to next levels of system for further data processing.
 
 ## Additional courses
 
@@ -55,7 +56,9 @@ Telecom integrations
 __Lomonosov Moscow State University (MSU)__
 
 Specialist degree programme (master)
+
 Applied Mathematics and Computer Science
+
 Specialization: System Programming
 
 
