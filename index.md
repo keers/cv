@@ -3,7 +3,7 @@ layout: cv
 title: Sergei Kirsanov's CV
 ---
 # Sergei Kirsanov
-Software engineer.
+Software engineer
 
 <div id="webaddress">
 <a href="www.linkedin.com/in/sergeikirsanov">My LinkedIn</a>
@@ -19,12 +19,28 @@ Lead software engineer at Revolut
 Java programming, distributed systems, fintech.
 
 
+## Experience
+
+### Revolut
+
+`Aug 2017 - Currenly` 
+Fintech
+
+### Yandex
+
+`Oct 2013 - Aug 2017`
+Advertising
+
+### NetCracker
+
+`Jul 2009 - Sep 2013`
+Telecom integrations
 
 ## Additional courses
 
 ### Coursera
 
-`February 2018`
+`Feb 2018`
 [Parallel, Concurrent, and Distributed Programming in Java](https://www.coursera.org/account/accomplishments/specialization/TYCS23RJZ2X8)
 
 
