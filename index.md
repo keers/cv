@@ -27,26 +27,26 @@ optimizing performance and reducing bottlenecks, adopting industry prooved solut
 
 ### Revolut
 
-`Currenly - Aug 2017`
-            Worked on launching VISA in Revolut, building own banking card processing processor and several related systems.
+`Currenly - Aug 2017    `
 
+Worked on launching VISA in Revolut, building own banking card processing processor and several related systems.
 Main technologies used: Java 11, Postgres SQL, Git, Ansible
 
 ### Yandex
 
-`Aug 2017 - Oct 2013` 
+`Aug 2017 - Oct 2013    ` 
 
-            Wokred on Java backend for advertising systems: https://display.yandex.ru
-
-Was part of lauchning several new products: bannerstorage, constructor of banners. Took part in migration to modern 
-technologies: svn -> git, Java7 -> Java8, migrating files storage to distributed CDN.
+Wokred on Java backend for advertising systems: https://display.yandex.ru.
+Was part of lauchning several new products: bannerstorage, constructor of banners.
+Took part in migration to modern technologies: svn -> git, Java7 -> Java8, migrating files storage to distributed CDN.
 
 Main technologies used: Java 8, MS SQL Server, MogoDB, SVN, GIT, Python.
 
 ### NetCracker
 
-`Sep 2013 - Jul 2009`
-            Worked on integrations with different network management systems of large telecom operators, parsing raw data from them
+`Sep 2013 - Jul 2009    `
+
+Worked on integrations with different network management systems of large telecom operators, parsing raw data from them
 and providing clean data to next levels of system for further data processing.
 
 Main technologies used: Oracle DB, Java 6, Google Web Toolkit.
