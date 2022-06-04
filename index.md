@@ -18,24 +18,37 @@ Lead software engineer at Revolut
 
 Java programming, distributed systems, fintech.
 
+### Professional interests
+
+Writing clean and easily understandable code, reducing compexity of big distributed systems, 
+optimizing performance and reducing bottlenecks, adopting industry prooved solutions into existing working systems.  
 
 ## Experience
 
 ### Revolut
 
 `Aug 2017 - Currenly` 
-Fintech
+Worked on launching VISA in Revolut, building own banking card processing processor and several related systems.
+
+Main technologies used: Java 11, Postgres SQL, Git, Ansible
 
 ### Yandex
 
 `Oct 2013 - Aug 2017`
-Advertising
+Wokred on Java backend for advertising systems: https://display.yandex.ru
+
+Was part of lauchning several new products: bannerstorage, constructor of banners. Took part in migration to modern 
+technologies: svn -> git, Java7 -> Java8, migrating files storage to distributed CDN.
+
+Main technologies used: Java 8, MS SQL Server, MogoDB, SVN, GIT, Python.
 
 ### NetCracker
 
 `Jul 2009 - Sep 2013`
-Worked on integrations with different network management systems, parsing raw data from them
+Worked on integrations with different network management systems of large telecom operators, parsing raw data from them
 and providing clean data to next levels of system for further data processing.
+
+Main technologies used: Oracle DB, Java 6, Google Web Toolkit.
 
 ## Additional courses
 
